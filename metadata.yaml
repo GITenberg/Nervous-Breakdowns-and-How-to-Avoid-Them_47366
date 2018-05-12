@@ -1,10 +1,16 @@
 _repo: Nervous-Breakdowns-and-How-to-Avoid-Them_47366
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47366-h/images/cover.jpg
 creator:
   author:
     agent_name: Musgrove, Charles David
     gutenberg_agent_id: '44281'
     url: http://www.gutenberg.org/2009/agents/44281
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47366#Nervous-Breakdowns-and-How-to-Avoid-Them
 gutenberg_issued: '2014-11-16'
 gutenberg_type: Text
 identifiers:
